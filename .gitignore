@@ -1,0 +1,5 @@
+# Игнорируем локальные данные эксперимента
+experiments/data/
+аd-hoc-experiment/data/
+# Игнорируем кэш Python
+**/__pycache__/
